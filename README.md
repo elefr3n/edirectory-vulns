@@ -4,7 +4,7 @@ Author: Efren Diaz @elefr3n
 
 Vendor: https://www.edirectory.com/
 
-Reported: ago/sep 2018 (without response :D)
+Reported: yes, without response :D
 
 Software Description: eDirectory is a software to create your own membership website, business directories, yellow pages, coupon sites, local guide, lead gen sites and more.
 
